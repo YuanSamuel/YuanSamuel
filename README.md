@@ -2,10 +2,10 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/37784817/126049408-93cf8b8f-3882-434e-b3dc-d4d27ebfa9d9.png" height="150">
 
-Heyo! My name is Samuel Yuan, and I'm an incoming freshman at UT Austin majoring in <a href="https://csb.utexas.edu/">Computer Science and Business Honors</a>.
+Heyo! My name is Samuel Yuan, and I'm an incoming freshman at UT Austin majoring in <a href="https://csb.utexas.edu/" target="_blank">Computer Science and Business Honors</a>.
 
-I mostly work with Flutter and Firebase but have experience with technologies like React, TailwindCSS, Svelte, GraphQL, and more
+I mostly work with Flutter and Firebase but have experience with technologies like React, TailwindCSS, Svelte, and GraphQL.
 
-Currently, I'm a developer at <a href="https://www.petcodeusa.com/">PetCode</a> but am open to any opportunities—feel free to reach out!
+Currently, I'm a developer at <a href="https://www.petcodeusa.com/"  target="_blank">PetCode</a> but am open to any opportunities—feel free to reach out!
 
-You can reach me at syuan@utexas.edu and find more about me at samuelyuan.com.
+You can reach me by email at syuan@utexas.edu, <a href="https://www.linkedin.com/in/yuansamuel/" target="_blank">LinkedIn</a> at @yuansamuel,  and find more about me at <a href="https://samuelyuan.com"  target="_blank">samuelyuan.com<a>.
