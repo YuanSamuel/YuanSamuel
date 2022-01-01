@@ -2,7 +2,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/37784817/126049408-93cf8b8f-3882-434e-b3dc-d4d27ebfa9d9.png" height="150">
 
-Hey! My name is Samuel Yuan, and I'm a student at UT Austin majoring in <a href="https://csb.utexas.edu/" target="_blank">Computer Science and Canfield Business Honors</a>.
+Hi! My name is Samuel Yuan, and I'm a student at UT Austin majoring in <a href="https://csb.utexas.edu/" target="_blank">Computer Science and Canfield Business Honors</a>.
 
 I mostly work with Flutter and Firebase but have experience with technologies like React, TailwindCSS, Svelte, and GraphQL.
 
