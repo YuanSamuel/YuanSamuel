@@ -5,4 +5,3 @@
 Hi! My name is Samuel Yuan, and I'm a student at UT Austin majoring in <a href="https://csb.utexas.edu/" target="_blank">Computer Science and Canfield Business Honors</a>.
 
 You can reach me by email at syuan@utexas.edu, <a href="https://www.linkedin.com/in/yuansamuel/" target="_blank">LinkedIn</a> at @yuansamuel,  and find more about me at <a href="https://samuelyuan.com"  target="_blank">samuelyuan.com<a>.
-
